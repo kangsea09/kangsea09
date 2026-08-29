@@ -43,7 +43,7 @@
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
   <a href="https://linkedin.com/in/kangsea09">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>&nbsp
   </a>
   <a href="https://velog.io/@kangsea09">
     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
